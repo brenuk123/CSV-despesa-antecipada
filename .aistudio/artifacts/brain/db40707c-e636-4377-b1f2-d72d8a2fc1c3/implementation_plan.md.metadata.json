@@ -1,0 +1,6 @@
+{
+  "summary": "Plano de implementação atualizado com a regra estrita de identificação de produtos por igualdade exata dos 8 códigos de vale, gestão manual de novos códigos na tela de Cadastros Base e ranking dos 10 códigos descartados mais frequentes no painel de conferência.",
+  "updatedAt": "2026-11-05T12:07:29.607964741Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

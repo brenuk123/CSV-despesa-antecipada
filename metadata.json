@@ -1,0 +1,6 @@
+{
+  "name": "Apurador Contábil SD1 — Benefícios Protheus",
+  "description": "Importação da tabela SD1 do TOTVS Protheus e geração de CSV contábil para despesas de Vale Transporte, Refeição, Combustível e Alimentação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
